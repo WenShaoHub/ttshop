@@ -4,8 +4,74 @@
     <file url="file://$PROJECT_DIR$/tt-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tt-manager" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbContentCategoryMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbContentCategoryMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbContentMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbContentMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbItemCatMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbItemCatMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbItemDescMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbItemDescMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbItemMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbItemMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbItemParamItemMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbItemParamItemMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbItemParamMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbItemParamMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbOrderItemMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbOrderItemMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbOrderMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbOrderMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbOrderShippingMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbOrderShippingMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbUserMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/com/wen/ttshop/dao/TbUserMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbContentCategoryMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbContentCategoryMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbContentMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbContentMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbItemCatMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbItemCatMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbItemDescMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbItemDescMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbItemMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbItemMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbItemParamItemMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbItemParamItemMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbItemParamMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbItemParamMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbOrderItemMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbOrderItemMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbOrderMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbOrderMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbOrderShippingMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbOrderShippingMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbUserMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/java/dao/TbUserMapper.xml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbContent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbContentCategory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbContentCategoryExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbContentExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbItemCat.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbItemCatExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbItemDesc.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbItemDescExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbItemExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbItemParam.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbItemParamExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbItemParamItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbItemParamItemExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbOrder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbOrderExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbOrderItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbOrderItemExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbOrderShipping.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbOrderShippingExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbUser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/java/com/wen/ttshop/pojo/po/TbUserExample.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tt-manager/tt-manager-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tt-parent" charset="UTF-8" />

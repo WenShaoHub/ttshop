@@ -24,13 +24,6 @@
         <processorPath useClasspath="true" />
         <module name="tt-common" />
       </profile>
-      <profile default="false" name="Annotation profile for tt-manager-pojo" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="tt-manager-pojo" />
-      </profile>
       <profile default="false" name="Annotation profile for tt-manager-dao" enabled="true">
         <sourceOutputDir name="target\generated-sources\annotations" />
         <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
@@ -57,6 +50,13 @@
         <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for tt-manager-pojo" enabled="true">
+        <sourceOutputDir name="target\generated-sources\annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="tt-manager-pojo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
